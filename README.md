@@ -5,8 +5,8 @@ Coding Ninja's React Skill test Project
 https://abhijitroy1997.github.io/react-ecommerce/
 
 #Code Stucture:
-![image](https://github.com/abhijitroy1997/react-ecommerce/assets/59794665/c5b6957d-4d73-4134-b75d-dae486c9587b)
 
+![image](https://github.com/abhijitroy1997/react-ecommerce/assets/59794665/c5b6957d-4d73-4134-b75d-dae486c9587b)
 ![image](https://github.com/abhijitroy1997/react-ecommerce/assets/59794665/a74389d9-28f3-4c40-aa39-06d367bbaa5e)
 
 #ScreenShots:
@@ -23,4 +23,4 @@ https://abhijitroy1997.github.io/react-ecommerce/
 
 #####
 #Thank you
-![image](https://github.com/abhijitroy1997/react-ecommerce/assets/59794665/6ca31c30-3ee5-4e14-acfe-14f5d76bc25
+#Happy Coding
