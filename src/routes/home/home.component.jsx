@@ -1,8 +1,7 @@
-import React, { useEffect } from "react";
 import HomeComponent from "../../components/home-component/home.component";
-
 import { useDispatch } from "react-redux";
 import { fetchProductsAsync } from "../../store/products/product.action";
+import { useEffect } from "react";
 
 function Home() {
   const dispatch = useDispatch();

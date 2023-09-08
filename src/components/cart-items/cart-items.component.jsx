@@ -38,7 +38,11 @@ function CartItem({ cartItem }) {
       <span className="name"> {name} </span>
       <span className="quantity">
         <div className="flat-icon-btn" onClick={handelDecrease}>
-          <img src="https://cdn-icons-png.flaticon.com/128/10308/10308996.png" />
+          <img
+            src="https://cdn-icons-png.flaticon.com/128/10308/10308996.png"
+            alt=""
+            srcset=""
+          />
         </div>
         <span className="value">{quantity}</span>
         <div className="flat-icon-btn" onClick={handelIncrease}>
