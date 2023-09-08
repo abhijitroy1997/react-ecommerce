@@ -10,6 +10,8 @@ import { useSelector } from "react-redux";
 const Cart = () => {
   const cartItems = useSelector(selectCartItems);
   const cartTotal = useSelector(selectCartTotal);
+  if (cartItems.length === 0)
+    return <h1 className="cart-empty">Your cart is empty</h1>;
   return (
     <div className="checkout-container">
       <div className="checkout-header">

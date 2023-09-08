@@ -3,7 +3,7 @@ import axios from "axios";
 export const getProducts = async () => {
   try {
     const prods = await axios(
-      "https://my-json-server.typicode.com/abhijitroy1997/react-ecommerce/products"
+      "https://my-json-server.typicode.com/abhijitroy1997/react-ecommerce-db/products"
     );
     return prods;
   } catch (err) {
