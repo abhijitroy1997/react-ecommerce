@@ -3,7 +3,7 @@ import axios from "axios";
 export const getProducts = async () => {
   try {
     const prods = await axios(
-      "https://github.com/abhijitroy1997/react-ecommerce/blob/main/db.json"
+      "https://github.com/abhijitroy1997/react-ecommerce/blob/main/db.json/Products"
     );
 
     return prods;
